@@ -1,0 +1,96 @@
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.exe
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.deps.json
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.runtimeconfig.json
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.pdb
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.Form1.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.Properties.Resources.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.GenerateResource.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.AssemblyInfoInputs.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.AssemblyInfo.cs
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\refint\Computer Design.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.pdb
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.genruntimeconfig.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\ref\Computer Design.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.AssemblyReference.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.KayitOl.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer.1C0B5C82.Up2Date
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.SifreYenile.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.UrunEkle.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.MagazaSayfasi.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.SatınAl.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.ResolveComReference.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.exe
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.deps.json
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.runtimeconfig.json
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.pdb
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.AssemblyReference.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.ResolveComReference.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.Form1.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.KayitOl.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.MagazaSayfasi.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.Properties.Resources.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.SatınAl.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.SifreYenile.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.UrunEkle.resources
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.GenerateResource.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.AssemblyInfoInputs.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.AssemblyInfo.cs
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer.1C0B5C82.Up2Date
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\refint\Computer Design.dll
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.pdb
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.genruntimeconfig.cache
+C:\Users\ramaz\OneDrive\Masaüstü\Dosyalar\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\ref\Computer Design.dll
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.exe
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.deps.json
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.runtimeconfig.json
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.dll
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\Computer Design.pdb
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.AssemblyReference.cache
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.ResolveComReference.cache
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.Form1.resources
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.KayitOl.resources
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.MagazaSayfasi.resources
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.Properties.Resources.resources
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.SatınAl.resources
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.SifreYenile.resources
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer_Design.UrunEkle.resources
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.GenerateResource.cache
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.AssemblyInfoInputs.cache
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.AssemblyInfo.cs
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer.1C0B5C82.Up2Date
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.dll
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\refint\Computer Design.dll
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.pdb
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\Computer Design.genruntimeconfig.cache
+C:\Users\ramaz\Masaüstü\Dosyalar\Ders\Yazılım Mühendisliği\2. Sınıf\Yaz Dönemi\Görsel Programlama\Computer Design\Computer Design\obj\Debug\net8.0-windows\ref\Computer Design.dll
